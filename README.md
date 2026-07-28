@@ -10,3 +10,5 @@
 **SoundSync Pad** - A direct-connect party soundboard where audio plays locally on everyone's PC. 
 
 Instead of routing sound through virtual microphones, the app pre-syncs your audio files with friends and uses fast RPC triggers. This completely bypasses Discord and in-game noise suppression, ensuring your memes and music play in original quality without being cut off.
+
+## In Develop
